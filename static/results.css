@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{   
+    margin:0; 
+    padding:0;
+    background-image:url("http://wallpaperset.com/w/full/7/5/a/545589.jpg");
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:70px;
+}
+
+h2{
+    font-family: 'Montserrat',sans-serif;
+}
+.main{
+    margin-top:10%;
+}
+
+.content{
+    margin-bottom: 100px;
+}
