@@ -6,10 +6,10 @@ The Flask web applicatoin relies on a CNN that was trained on the MNIST dataset 
 
 ## Screenshots
 
-![alt text](https://github.com/Vittalgc/PredictHandwrittenDigits/blob/master/images/img_1.png?raw=true)
-![alt text](https://github.com/Vittalgc/PredictHandwrittenDigits/blob/master/images/img_2.png?raw=true)
-![alt text](https://github.com/Vittalgc/PredictHandwrittenDigits/blob/master/images/img_3.png?raw=true)
-![alt text](https://github.com/Vittalgc/PredictHandwrittenDigits/blob/master/images/img_4.png?raw=true)
+![alt text](https://github.com/Vittalgc/PredictHandwrittenDigits/blob/master/images/img_1.png)
+![alt text](https://github.com/Vittalgc/PredictHandwrittenDigits/blob/master/images/img_2.png)
+![alt text](https://github.com/Vittalgc/PredictHandwrittenDigits/blob/master/images/img_3.png)
+![alt text](https://github.com/Vittalgc/PredictHandwrittenDigits/blob/master/images/img_4.png)
 
 ## Contributors
 
