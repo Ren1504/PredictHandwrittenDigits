@@ -2,7 +2,7 @@
 
 body{   
     margin:0; 
-    padding:0;
+    padding-bottom: 120px;
     background-image:url("http://wallpaperset.com/w/full/7/5/a/545589.jpg");
 }
 
@@ -13,3 +13,15 @@ h1{
 .main{
     margin-top:7%;
 }
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 114px;
+  }
+
+#prevImage{
+    width: 50%;
+  }
